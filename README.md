@@ -1,4 +1,4 @@
-![Alexey_Mrac3k](https://i.pinimg.com/1200x/38/ee/15/38ee15cd72bdba7e4fb813f7e5282be3.jpg)  
+![Alexey_Mrac3k](https://i.pinimg.com/736x/de/f6/b7/def6b78210149d73c98e6f3e473cb6b9.jpg)
   
 
 # **Привет, меня зовут Алексей!**  
