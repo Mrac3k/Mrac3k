@@ -15,8 +15,16 @@
 
 - 💼 Хочу освоить новую профессию и начать работать по фронтенду.  
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
-## Технологии
+
+###
+
+<h2 align="left">🖥️   Технологии :</h2>
+
+###
 
 <div align="">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
@@ -26,10 +34,24 @@
 <br/>  
 
 
-## Социальные сети:
+###
+
+<h2 align="left">💡   Социальные сети :</h2>
+
+###
 <a href="https://github.com/Mrac3k" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 35px;" />
 </a>   
 <a href="https://t.me/Mrackc" target="_blank">
-<img src=https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 35px;" />
 </a>   
+
+###
+
+<h2 align="left">🔥   Моя статистика :</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mrac3k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> 
